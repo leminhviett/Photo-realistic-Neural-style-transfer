@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Image and model names
-MODEL_PATH=ade20k-resnet50dilated-ppm_deepsup
-RESULT_PATH=./
+MODEL_PATH=segment_model/ade20k-resnet50dilated-ppm_deepsup
 
 ENCODER=$MODEL_PATH/encoder_epoch_20.pth
 DECODER=$MODEL_PATH/decoder_epoch_20.pth
