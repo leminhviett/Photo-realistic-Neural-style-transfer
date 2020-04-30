@@ -8,5 +8,5 @@ Semantic Segmantation original code : https://github.com/CSAILVision/semantic-se
 
 ## Run the app
 
-1. Run the set_up.sh: ./demo_test.sh
+1. Run the set_up.sh: ./set_up.sh
 2. Run the app: python main.py
