@@ -2,7 +2,7 @@
 
 A Web App - Photo-realistic Neural Style Transfer
 
-This web app is built based on these 2 original code:
+This web app is built based on these 2 original repositories:
   * WCT2: https://github.com/ClovaAI/WCT2
   * Semantic Segmentation: https://github.com/CSAILVision/semantic-segmentation-pytorch
   
