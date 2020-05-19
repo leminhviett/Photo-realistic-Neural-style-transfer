@@ -1,7 +1,5 @@
-upload/content/
-upload/style/
-static/
-segment_res/content/
-segment_res/style/
+*.jpg
+*.jpeg
+*.png
 
 segment_model/ade20k-resnet50dilated-ppm_deepsup/
