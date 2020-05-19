@@ -17,3 +17,14 @@ fi
 if [ ! -e $DECODER ]; then
   wget -P $LOCAL_PATH http://sceneparsing.csail.mit.edu/model/pytorch/$DECODER
 fi
+
+#set up folders
+mkdir 'upload'
+mkdir 'segment_res'
+mkdir 'static'
+
+mkdir 'upload/content'
+mkdir 'upload/style'
+
+mkdir 'segment_res/content'
+mkdir 'segment_res/style'
