@@ -15,4 +15,5 @@ arXiv:1903.09760v2, 2019
 2. Run the app: python main.py
 
 ## Technologies used:
-  Flask
+  Python, Flask
+  HTML, CSS, Javascript
